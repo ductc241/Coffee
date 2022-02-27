@@ -1,6 +1,6 @@
 # ☕ Responsive Coffee Website
-## [Watch it on youtube](https://youtu.be/kObf5-dJMpw)
-### ☕ Responsive Coffee Website
+[Web](https://ductc241.github.io/Coffee/)
+
 
 - Responsive Coffee Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
